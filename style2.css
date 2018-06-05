@@ -1,0 +1,50 @@
+
+
+body{
+	background-image: url(sample2.jpg);
+	background-size: cover;
+}
+
+h2:hover{
+	color: blue;
+	text-align: center;
+	border: 5px solid beige;
+	cursor: pointer;
+}
+
+h1 {
+	color: red;
+}
+
+h3{
+	text-align: left;
+	color: orange;
+}
+
+p{
+	color: orange;
+	text-transform: uppercase;
+	font-family: 'Press Start 2P', cursive;
+	font-size: 100%;
+}
+
+img{
+    float: left;
+}
+
+footer {
+	clear: both;
+	text-align: left;
+	color: orange;
+	font-size: 100%;
+	font-family: 'Press Start 2P', cursive;
+}
+
+li{
+	list-style: none;
+	display: inline;
+}
+
+#div2{
+	background: rgba(0,0,255,0.2);
+}

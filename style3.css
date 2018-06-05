@@ -1,0 +1,45 @@
+
+
+body{
+	background-image: url(sample3.jpg);
+	background-size: cover;
+}
+
+h2:hover {
+	color: pink;
+	text-align: center;
+	border: 5px solid beige;
+	cursor: pointer;
+}
+
+h1{
+	color: purple;
+	font-family: 'Jacques Francois Shadow', cursive;
+}
+
+
+li{
+	list-style: none;
+	display: inline;
+}
+
+#model1{
+        border: 5px solid orange;
+        display: inline-block;
+        padding: 5px 20px;
+        margin: 0px 20px;
+}
+
+#model2{
+        border: 5px solid blue;
+        display: inline-block;
+        padding: 5px 20px;
+        margin: 0px 20px;
+}
+
+#model3{
+        border: 5px solid green;
+        display: inline-block;
+        padding: 5px 20px;
+        margin: 0px 20px;
+}

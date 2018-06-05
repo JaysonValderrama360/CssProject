@@ -1,0 +1,40 @@
+/*Selector {
+	Property: value;
+}*/
+
+*{
+	text-align: right;
+}
+body{
+	background-image: url(sample.jpg);
+	background-size: cover;
+}
+
+h2 {
+	color: orange;
+	text-align: center;
+	border: 5px solid beige;
+	cursor: pointer;
+}
+
+p {
+	text-align: left;
+	color: orange;
+}
+
+li{
+	list-style: none;
+	display: inline;
+}
+
+.text {
+	border: 2px solid blue;
+}
+
+.text2 {
+		border: 2px solid orange;
+}
+
+#div1{
+	background: rgba(255, 0, 0, 0.3);
+}
